@@ -10,19 +10,23 @@ Follow the steps below to start using AstraUI-Tailwind:
 
 You can install AstraUI-Tailwind via npm:
 
-```
+```bash
 npm i astraui-tailwind
 ```
 
 You also need to install Tailwind CSS to use this UI kit. If Tailwind CSS is not installed, you can install it with the following command:
 
+official site : [tailwindcss](https://tailwindcss.com/)
+
+```bash
 npm install tailwindcss
+```
 
 ### Tailwind CSS Configuration
 
 To use Tailwind CSS with AstraUI-Tailwind, you need to make some settings in the `tailwind.config.js` file. The relevant settings are as follows:
 
-```
+```js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
