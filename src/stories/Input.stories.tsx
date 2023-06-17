@@ -6,6 +6,7 @@ import { Input } from "../index";
 
 const meta: Meta<typeof Input> = {
   component: Input,
+  tags: ["autodocs"],
 };
 
 export default meta;

@@ -6,6 +6,7 @@ import { Button, HStack } from "../index";
 
 const meta: Meta<typeof HStack> = {
   component: HStack,
+  tags: ["autodocs"],
 };
 
 export default meta;

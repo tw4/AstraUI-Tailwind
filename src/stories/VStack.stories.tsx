@@ -6,6 +6,7 @@ import { Button, VStack } from "../index";
 
 const meta: Meta<typeof VStack> = {
   component: VStack,
+  tags: ["autodocs"],
 };
 
 export default meta;
