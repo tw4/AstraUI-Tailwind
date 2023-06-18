@@ -1,7 +1,7 @@
 {
   "main": "dist/index.js",
   "name": "astraui-tailwind",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": false,
   "description": "Astra UI is a React component library built with Tailwind CSS",
   "author": "MertSabinov",
