@@ -12,7 +12,7 @@ const meta: Meta<typeof Text> = {
 export default meta;
 type Story = StoryObj<typeof Text>;
 
-export const DefaultButton: Story = {
+export const DefaultText: Story = {
   args: {
     children: "ipsum dolor sit amet consectetur adipisicing elit.",
   },
