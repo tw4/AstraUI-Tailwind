@@ -14,7 +14,7 @@ type Story = StoryObj<typeof Box>;
 
 export const DefaultBox: Story = {
   args: {
-    className: "space-x-2",
+    className: "space-y-2",
     children: (
       <>
         <Button>Button 1</Button>
