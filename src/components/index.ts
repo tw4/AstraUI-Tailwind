@@ -8,3 +8,4 @@ export { default as Divider } from "./Divider";
 export { default as DropDown } from "./DropDown";
 export { default as MenuItem } from "./MenuItem";
 export { default as Checkbox } from "./Checkbox";
+export { default as Avatar } from "./Avatar";
